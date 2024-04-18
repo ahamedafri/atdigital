@@ -10,7 +10,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className='flex justify-between items-center bg-Primary h-24 w-full mx-auto px-4 text-black'>
+    <div className='flex justify-between items-center bg-Primary h-24 w-full mx-auto px-6 text-black'>
       <a href='' className='text-2xl font-semibold flex items-center space-x-3'><img className='w-10 inline-block items-center' src={Logo} alt="" /><span className='text-white'>AT DIGITEL</span></a>
 
       <ul className='hidden md:flex font-semibold text-white'>
